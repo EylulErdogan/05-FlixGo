@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj": {}
+    "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj": {
+    "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
+        "projectUniqueName": "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
         "projectName": "movieWorldcfjsProject",
-        "projectPath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
+        "projectPath": "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
         "packagesPath": "C:\\Users\\eylul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\obj\\",
+        "outputPath": "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

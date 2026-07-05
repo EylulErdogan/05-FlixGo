@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bu/WzTeCrXs=",
+  "dgSpecHash": "EXr8+Q01D28=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eylul\\Documents\\GitHub\\AllSoftitoProjects\\5CFirstJavascriptProject\\movieWorldcfjsProject\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
+  "projectFilePath": "C:\\Users\\eylul\\Documents\\GitHub\\05-FlixGo\\movieWorldcfjsProject\\movieWorldcfjsProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eylul\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\eylul\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

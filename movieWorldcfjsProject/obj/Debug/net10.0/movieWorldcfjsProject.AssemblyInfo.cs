@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("movieWorldcfjsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6320cc6134b4bb3c35164197e3f384c99d9adf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a543f596fce35dd92c856d6ab3933ba0035a6b00")]
 [assembly: System.Reflection.AssemblyProductAttribute("movieWorldcfjsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("movieWorldcfjsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
